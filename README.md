@@ -183,7 +183,7 @@ Contact me for Data Science Project Collaborations
 ## 📜 Feedback
 )
 
-If you have any feedback, please reach out to us at pranav.sanketbhosale0023@gmail.com.com
+If you have any feedback, please reach out to us at sanketbhosale0023@gmail.com.com
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 readme.txt
